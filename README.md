@@ -19,4 +19,4 @@ fps.counter.start();
 
 `window.requestAnimationFrame` and `window.cancelAnimationFrame` may not supported by some browsers.
 
-You can use `import ''fpscounter/polyfill';` to polyfill it manually.
+You can use `import 'fpscounter/polyfill';` to polyfill it manually.
