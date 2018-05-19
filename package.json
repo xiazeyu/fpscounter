@@ -4,6 +4,7 @@
   "description": "A fps counter for browsers.",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint --ext .js ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
